@@ -1,2 +1,2 @@
 # High School Scoring Model
-UCONN MSDS capstone project 
+This MSDS capstone project focuses on building a high school market scoring model for UConn’s admissions team. Using demographic, behavioral, and institutional data, we developed a data-driven system to score and rank out-of-state high schools based on criteria such as historical yield rates, student engagement, enrollment potential, and proximity metrics. The resulting scores help guide strategic decisions on where to allocate marketing and outreach resources for undergraduate recruitment.
