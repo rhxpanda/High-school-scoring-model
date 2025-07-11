@@ -42,7 +42,7 @@ The final scoring system provides a transparent, interpretable, and scalable way
 - `data/` – Input datasets (excluded due to NDA)
 - `notebooks/` – Data processing and modeling code
 - `results/` – High school ranking outputs
-- `report.pdf` – Full technical report (see [`final report.pdf`](./final%20report.pdf))
+- `final report.pdf` – Full technical report (see [`final report.pdf`](./final%20report.pdf))
 
 ## 🤝 Team
 
