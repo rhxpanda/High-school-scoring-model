@@ -41,7 +41,6 @@ The final scoring system provides a transparent, interpretable, and scalable way
 
 - `data/` – Input datasets (excluded due to NDA)
 - `Code.ipynb` – Full pipeline including data processing, feature engineering, modeling (AHP + TOPSIS), and result generation
-- 
 - `final report.pdf` – Full technical report (see [`final report.pdf`](./final%20report.pdf))
 
 ## 🤝 Team
