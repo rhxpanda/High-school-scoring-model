@@ -40,8 +40,8 @@ The final scoring system provides a transparent, interpretable, and scalable way
 ## 📁 Files
 
 - `data/` – Input datasets (excluded due to NDA)
-- `notebooks/` – Data processing and modeling code
-- `results/` – High school ranking outputs
+- `Code.ipynb` – Full pipeline including data processing, feature engineering, modeling (AHP + TOPSIS), and result generation
+- 
 - `final report.pdf` – Full technical report (see [`final report.pdf`](./final%20report.pdf))
 
 ## 🤝 Team
